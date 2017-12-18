@@ -46,13 +46,13 @@ int setShipsPl(stt_gamePlayer gmPlayer[], int p, int s);
 //Main funtion (get menu)
 void main() {
     char opt;
-    setlocale(LC_ALL, "portuguese");
+    setlocale(LC_ALL, "english");
     
     printf("----------------------------------\n");
     printf("Welcome to BattleShip Game\n\n");
     printf("This game was made by:\n");
-    printf("Diogo SÈnico\n");
-    printf("Jo„o Zeferino\n");
+    printf("Diogo S√©nico\n");
+    printf("Jo√£o Zeferino\n");
     printf("----------------------------------\n");
 	system("pause");
 	
